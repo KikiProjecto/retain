@@ -1,6 +1,3 @@
 # **retain**
 
-<video controls width="720">
-  <source src="https://raw.githubusercontent.com/KikiProjecto/retain/main/pitch/retainMiniPitch.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch demo video](https://raw.githubusercontent.com/KikiProjecto/retain/main/pitch/retainMiniPitch.mp4)
